@@ -8,6 +8,8 @@ This project predicts student academic performance using machine learning.
 - NumPy
 - Matplotlib
 - Seaborn
+- Decision Tree
+- Random Forest
 - Scikit-Learn
 
 ## Project Overview
